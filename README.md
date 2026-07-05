@@ -14,8 +14,10 @@ This project is a small research assistant app with a Next.js frontend and a Fas
 
 ## Prerequisites
 
-- Node.js 18+ and npm
 - Python 3.10+
+- Duckduckgo Search
+- Langchain
+- Langchain Huggingface
 - At least one AI provider API key:
   - HUGGINGFACE_API_KEY
 
