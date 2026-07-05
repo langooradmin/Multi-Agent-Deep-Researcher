@@ -64,4 +64,5 @@ Open http://localhost:3000 in your browser.
 ## Notes
 
 - The UI can also accept API keys directly in the form, but the backend still needs a valid provider configuration.
+- DuckDuckGo search is used by the Retriever agent to find initial sources.
 - If you are running locally, make sure both the backend and frontend servers are active at the same time.
